@@ -8,6 +8,7 @@ Cinema Administrator profile:
 6. The cinema employee can logout from the application.
 
 Cinema customer profile:
+
 7. After login, a customer is able to update/edit his/her profile to use for future bookings. The profile is composed of basic information such as surname, first name, email address. There is also booking history that is updated automatically when the user makes a booking or delete an existing one.
 
 8. He/she can pick up a date, get a list of films available on the selected date with their respective information and available screening times and seats.
