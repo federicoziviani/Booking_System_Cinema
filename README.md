@@ -9,9 +9,15 @@ Cinema Administrator profile:
 
 Cinema customer profile:
 7. After login, a customer is able to update/edit his/her profile to use for future bookings. The profile is composed of basic information such as surname, first name, email address. There is also booking history that is updated automatically when the user makes a booking or delete an existing one.
+
 8. He/she can pick up a date, get a list of films available on the selected date with their respective information and available screening times and seats.
+
 9. The customer can book a seat (for a given film/date/time) by clicking on the graphical representation of the seat. If the seat is available, the seat icon changes to ‘booked’. If the seat is not available, an error message is displayed.Multiple seats can be booked by the same customer at the same time.
+
 10. When the customer clicks on the ‘Confirm booking’ button, a summary of his booking is displayed and the booking added to his history.
+
 11. A customer can delete an existing booking from his list if it is a future booking only, otherwise an error message is displayed.
+
 12. The cinema customer can see ratings for the movies available at cinema. He/she can also leave ratings, only for those movies that he has seen. 
+
 13. The customer can logout from the application.
